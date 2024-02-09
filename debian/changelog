@@ -1,0 +1,17 @@
+deepin-draw (6.0.3-1) unstable; urgency=medium
+
+  * update
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 07 Mar 2023 13:20:56 +0800
+
+deepin-draw (6.0.3) unstable; urgency=medium
+
+  * use xwininfo method to show file name and path.
+
+ -- TagBuilder <tagbuilder@deepin.com>  Tue, 21 Feb 2023 16:05:33 +0800
+
+deepin-draw (0.0.1) unstable; urgency=medium
+
+  * init 
+
+ -- Deepin Packages Builder <packages@deepin.com>  Fri, 07 Jul 2017 15:49:17 +0800
